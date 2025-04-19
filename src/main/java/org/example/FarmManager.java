@@ -9,7 +9,7 @@ public class FarmManager {
 
     public static void main(String[] args) {
         while (true) {
-            System.out.println("\n--- FARM MENU ---");
+            System.out.println("\n---WELCOME TO MUNEZERO Aline's FARM. ---");
             System.out.println("1. Add Animal");
             System.out.println("2. Add Crop");
             System.out.println("3. Maintain Item");
